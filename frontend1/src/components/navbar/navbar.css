@@ -1,0 +1,22 @@
+.user-png{
+    width: 100px;
+    height: 100px;
+    
+}
+.navbar-brand{
+    color: rgb(182, 120, 248) ;
+    font-family: 'Lucida Console';
+    font-weight: bold;
+    font-size: 25px;
+    text-shadow: 2px 2px 4px #ffffff,
+}
+.btn-nav{
+    background-color:rgb(182, 120, 248) ;
+    border-radius: 10px;
+    font-family: 'Lucida Console';
+    font-weight: bold;
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 2px 2px 4px #ffffff;
+    
+
+}
