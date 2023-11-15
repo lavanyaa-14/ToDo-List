@@ -1,6 +1,6 @@
 import React from 'react';
 import "./signup.css"
-const about = () =>{
+const signup = () =>{
     return(
         <div classname="signup">
             <div classname="container">
